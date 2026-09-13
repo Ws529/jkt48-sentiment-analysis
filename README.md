@@ -1,11 +1,18 @@
 # 📊 Analisis Sentimen Fans JKT48 terhadap Kenaikan Harga M&G dan 2-Shot
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit)](https://jkt48-sentiment-analysisgit-sbz6zlfbmogvhuctsetzag.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-IndoBERT-blue?style=for-the-badge)
 
 Dashboard analitik interaktif untuk menganalisis respons dan kecenderungan sentimen fans JKT48 di platform X (Twitter) terkait penyesuaian harga tiket event **Meet & Greet (M&G) / Photocard** dan **2-Shot**.
+
+---
+
+## 🌐 Live Dashboard Demo
+
+Dashboard telah dideploy dan dapat diakses secara langsung melalui link berikut:  
+👉 **[https://jkt48-sentiment-analysisgit-sbz6zlfbmogvhuctsetzag.streamlit.app/](https://jkt48-sentiment-analysisgit-sbz6zlfbmogvhuctsetzag.streamlit.app/)**
 
 ---
 
