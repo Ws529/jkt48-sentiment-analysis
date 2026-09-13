@@ -61,21 +61,6 @@ Tiga arsitektur model diuji untuk melakukan klasifikasi sentimen:
 * 💡 **Insight Otomatis:** Generasi poin insight kunci secara matematis sesuai filter aktif.
 * 🗂️ **Deskripsi Dataset & Export:** Penjelasan struktur kolom, distribusi kelas, serta tombol *Download Dataset (CSV)* teranonimkan.
 
----
-
-## 📁 Struktur Repositori
-
-```
-jkt48-sentiment-analysis/
-├── app.py                              # Main Streamlit dashboard application
-├── helpers.py                          # Data processors, NLP censors, & Plotly chart builders
-├── jkt48_sentiment_final_labeled.csv   # Dataset teranonimkan (264 sampel)
-├── requirements.txt                    # Dependensi Python (streamlit, pandas, plotly)
-├── .gitignore                          # Git exclude rules
-└── README.md                           # Dokumentasi project
-```
-
----
 
 ## 💻 Menjalankan Secara Lokal
 
