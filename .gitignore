@@ -1,0 +1,13 @@
+# Backup file (data asli sebelum anonimisasi)
+jkt48_sentiment_final_labeled_ORIGINAL.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Script sementara
+anonymize.py
+
+# OS files
+.DS_Store
+Thumbs.db
